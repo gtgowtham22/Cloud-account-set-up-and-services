@@ -2,9 +2,9 @@
 
 # Exp: 1 Cloud-account-set-up-and-services
 
-# Name: ABDULRAWOOF
+# Name: GOWTHAM G T
 
-# Register No: 212224230003
+# Register No: 212224110017
 
 ## Aim:
 To create an cloud account in AWS and to explore all of its services. 
